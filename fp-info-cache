@@ -1,4 +1,4 @@
-26559198156438618
+26568283618922413
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59927,6 +59927,13 @@ CONN-TH_2P-P2.00_GP01-2001WR-2P
 2
 2
 EasyEDA
+CRYSTAL-SMD_L3.2-W1.5
+
+
+0
+2
+2
+EasyEDA
 D0603-BI
 
 
@@ -59955,6 +59962,13 @@ LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL
 48
 48
 EasyEDA
+OSC-TH_BD2.0-P0.70-D0.3
+
+
+0
+2
+2
+EasyEDA
 PWRM-TH_LS03-13BXXR3
 
 
@@ -59975,6 +59989,13 @@ SIM33ELA_v2
 0
 18
 18
+EasyEDA
+SMD_L2.0-W1.4_S2751-46R
+
+
+0
+1
+1
 EasyEDA
 SMD_RH-5015
 
@@ -60003,6 +60024,13 @@ SW-SMD_L3.9-W3.0-P4.45
 0
 2
 2
+EasyEDA
+SW-SMD_MSK12CO2
+
+
+0
+9
+5
 EasyEDA
 SW-TH_KH-SS12F17-G5
 
@@ -96718,6 +96746,13 @@ A7672-foot
 0
 124
 124
+Snapeda
+CAP_6TPE330MAP
+
+
+0
+2
+2
 Snapeda
 DIOC1608X36N
 
