@@ -1475,6 +1475,158 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "EasyEDA:XC6206P332MR"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "XC6206P332MR"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "EasyEDA:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/Low-Dropout-Regulators-LDO_XC6206P332MR_C5446.html"
+				(at 0 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "TOREX(特瑞仕)"
+				(at 0 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "XC6206P332MR-G"
+				(at 0 -20.32 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C5446"
+				(at 0 -22.86 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "Linear Voltage Regulators (LDO)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "XC6206P332MR_0_1"
+				(rectangle
+					(start -5.08 7.62)
+					(end 5.08 -7.62)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -10.16 0 0)
+					(length 5.08)
+					(name "Vin"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 10.16 5.08 180)
+					(length 5.08)
+					(name "Vout"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 10.16 -5.08 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "MCU_ST_STM32L0:STM32L051K8Ux"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3052,6 +3204,16 @@
 	)
 	(wire
 		(pts
+			(xy 198.12 74.93) (xy 214.376 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54b7f514-aba9-41d2-b98f-205b537b16ed")
+	)
+	(wire
+		(pts
 			(xy 109.982 98.298) (xy 117.602 98.298)
 		)
 		(stroke
@@ -3059,6 +3221,16 @@
 			(type default)
 		)
 		(uuid "54c7fc21-74e3-4abd-b06b-50fba902b43a")
+	)
+	(wire
+		(pts
+			(xy 265.938 84.582) (xy 265.938 82.804)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "576be8bc-6d17-4f8c-b42d-7e34dcb1a6b4")
 	)
 	(wire
 		(pts
@@ -3149,16 +3321,6 @@
 			(type default)
 		)
 		(uuid "6a4aee50-a528-478f-8ccf-c1092f90977d")
-	)
-	(wire
-		(pts
-			(xy 201.676 74.93) (xy 214.376 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ae89f42-d283-4cf8-9d91-2a4b84ecdabe")
 	)
 	(wire
 		(pts
@@ -3282,6 +3444,16 @@
 	)
 	(wire
 		(pts
+			(xy 206.756 77.47) (xy 214.376 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a552153-e868-4ee3-8ee8-ec6070d23fa5")
+	)
+	(wire
+		(pts
 			(xy 155.702 77.978) (xy 148.082 77.978)
 		)
 		(stroke
@@ -3299,16 +3471,6 @@
 			(type default)
 		)
 		(uuid "8f168a33-c439-44a1-9f9c-3500ca71eaa7")
-	)
-	(wire
-		(pts
-			(xy 207.264 77.47) (xy 214.376 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "932af527-b612-4a36-a4fe-2e9ef7a3a7ad")
 	)
 	(wire
 		(pts
@@ -3352,6 +3514,16 @@
 	)
 	(wire
 		(pts
+			(xy 265.938 82.804) (xy 262.128 82.804)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a63705a7-4aba-463c-9f90-328d196df4c5")
+	)
+	(wire
+		(pts
 			(xy 193.294 52.578) (xy 219.71 52.578)
 		)
 		(stroke
@@ -3359,6 +3531,16 @@
 			(type default)
 		)
 		(uuid "a638f6c4-e1f9-48b0-9e90-39b46fbd4cdd")
+	)
+	(wire
+		(pts
+			(xy 234.188 77.724) (xy 241.808 77.724)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8519e3d-f204-4c6d-a5c0-c9d6a56c7b10")
 	)
 	(wire
 		(pts
@@ -3389,6 +3571,16 @@
 			(type default)
 		)
 		(uuid "b8f110fd-e848-4f4f-a364-8ea5463482a3")
+	)
+	(wire
+		(pts
+			(xy 270.764 72.644) (xy 262.128 72.644)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b98ab789-32ce-4947-9bc3-9e1456282214")
 	)
 	(wire
 		(pts
@@ -3800,6 +3992,16 @@
 		)
 		(uuid "31dbd123-767a-40f6-9651-8dc89a5a0394")
 	)
+	(label "VDDA"
+		(at 198.12 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "32b87963-6c37-4392-ae28-737bfa47321a")
+	)
 	(label "PA05"
 		(at 109.982 90.678 0)
 		(effects
@@ -3819,6 +4021,16 @@
 			(justify right bottom)
 		)
 		(uuid "33dfa6f9-847f-4aba-99c1-600775ccd1cb")
+	)
+	(label "LDO"
+		(at 234.188 77.724 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3834dd46-12f6-4c7a-a3fd-12a6af90f478")
 	)
 	(label "PA13"
 		(at 109.982 70.358 0)
@@ -3940,6 +4152,16 @@
 		)
 		(uuid "6f7d0118-be19-45ff-9712-1f5fe33fffa0")
 	)
+	(label "LDO"
+		(at 206.756 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "70908f06-eb6a-48d5-9962-05f2fa096d77")
+	)
 	(label "PB01"
 		(at 155.702 83.058 180)
 		(effects
@@ -3951,7 +4173,7 @@
 		(uuid "72ba7738-6ea4-412d-a92b-52da04eb2f60")
 	)
 	(label "VDD1"
-		(at 201.676 74.93 0)
+		(at 203.708 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4059,16 +4281,6 @@
 			(justify right bottom)
 		)
 		(uuid "9853519b-6150-407b-a768-d0014bbaf0e4")
-	)
-	(label "VDDA"
-		(at 207.264 77.47 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9a658548-df05-4dd1-933c-3f5d6f2ffd89")
 	)
 	(label "PB02"
 		(at 155.702 80.518 180)
@@ -4289,6 +4501,16 @@
 			(justify right bottom)
 		)
 		(uuid "e886978b-3ec2-44b5-9605-b2efa104ef9b")
+	)
+	(label "VDD1"
+		(at 270.764 72.644 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f6e75dc8-e4d0-4dd2-8811-3aa2997128e2")
 	)
 	(label "PB08"
 		(at 206.756 105.41 0)
@@ -5029,6 +5251,72 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 265.938 84.582 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4a20f82b-ca4a-42ad-a4a0-9bda5701241e")
+		(property "Reference" "#PWR09"
+			(at 265.938 90.932 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 265.938 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 265.938 84.582 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 265.938 84.582 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 265.938 84.582 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f021bcce-a2f7-4fe1-9a8e-66e2f64c998a")
+		)
+		(instances
+			(project "STM32L051K_devboard"
+				(path "/dd525c43-ed51-4d3d-a54d-1a171726872e"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 214.376 110.236 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5435,6 +5723,104 @@
 			(project "STM32L051K_devboard"
 				(path "/dd525c43-ed51-4d3d-a54d-1a171726872e"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EasyEDA:XC6206P332MR")
+		(at 251.968 77.724 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "82a308f5-1d16-44d5-abb0-769133dccc37")
+		(property "Reference" "U2"
+			(at 251.968 65.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "XC6206P332MR"
+			(at 251.968 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "EasyEDA:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
+			(at 251.968 90.424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Low-Dropout-Regulators-LDO_XC6206P332MR_C5446.html"
+			(at 251.968 92.964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 251.968 77.724 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TOREX(特瑞仕)"
+			(at 251.968 95.504 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "XC6206P332MR-G"
+			(at 251.968 98.044 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C5446"
+			(at 251.968 100.584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1eea01e4-6084-4ac5-9867-ce75a66131db")
+		)
+		(pin "3"
+			(uuid "7b12b094-d7b3-4118-a4d7-b8ff2750053c")
+		)
+		(pin "2"
+			(uuid "adfe452e-4ef1-47d1-9536-5ab272c6f680")
+		)
+		(instances
+			(project ""
+				(path "/dd525c43-ed51-4d3d-a54d-1a171726872e"
+					(reference "U2")
 					(unit 1)
 				)
 			)
