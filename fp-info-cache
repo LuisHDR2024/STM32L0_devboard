@@ -1,4 +1,4 @@
-26568283618922413
+26587873579848293
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59906,7 +59906,35 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 10
 10
 EasyEDA
+ANT-SMD_L10.0-W3.0
+
+
+0
+2
+2
+EasyEDA
+CAP-SMD_BD8.0-L8.3-W8.3-FD
+
+
+0
+2
+2
+EasyEDA
 CAP-SMD_L3.5-W2.8-FD
+
+
+0
+2
+2
+EasyEDA
+CAP-SMD_L7.3-W4.3
+
+
+0
+2
+2
+EasyEDA
+CAP-SMD_L7.3-W4.3-R-RD
 
 
 0
@@ -59920,7 +59948,35 @@ CAP-TH_BD6.3-P2.50-D1.0-FD
 2
 2
 EasyEDA
+CASE-B_3528
+220uF (227) ±20% 6.3V
+
+0
+2
+2
+EasyEDA
+CASE-D_7343
+330uF (337) ±10% 10V
+
+0
+2
+2
+EasyEDA
+CONN-SMD_532610271
+
+
+0
+4
+4
+EasyEDA
 CONN-TH_2P-P2.00_GP01-2001WR-2P
+
+
+0
+2
+2
+EasyEDA
+CONN-TH_530480210
 
 
 0
@@ -60011,12 +60067,33 @@ SOD-523F_L1.2-W0.8-LS1.7-RD
 2
 2
 EasyEDA
+SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR
+
+
+0
+3
+3
+EasyEDA
+SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR
+
+
+0
+6
+6
+EasyEDA
 SOT-223-3_L6.4-W3.5-P2.30-LS7.0-BR
 
 
 0
 4
 4
+EasyEDA
+SW-SMD_DSHP01TSGER
+
+
+0
+2
+2
 EasyEDA
 SW-SMD_L3.9-W3.0-P4.45
 
@@ -96849,8 +96926,8 @@ Quectel_EG800K_foot_recorted
 
 
 0
-50
-50
+44
+44
 Snapeda
 SIM33ELA_foot
 

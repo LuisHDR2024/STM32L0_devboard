@@ -3,3 +3,247 @@
 05-23 15:25:39 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 676:KiCad build version: 9.0.6
 05-23 15:25:39 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 677:Plugin version: 4.0.1
 05-23 15:25:39 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 678:Frame repr: <wx._core.Frame object at 0x000002265BBBC4C0>
+05-23 15:25:43 impart_plugin 46:Plugin initialization started on Windows
+05-23 15:25:43 impart_plugin 47:Python executable: C:\Program Files\KiCad\9.0\bin\kicad.exe
+05-23 15:25:43 impart_plugin 48:Python version: 3.11.5 (main, Sep 17 2025, 01:04:48) [MSC v.1944 64 bit (AMD64)]
+05-23 15:25:43 impart_plugin 49:Plugin directory: C:\Users\luisH\Documents\KiCad\9.0\3rdparty\plugins\com_github_Steffen-W_impartGUI
+05-23 15:25:43 impart_plugin 137:Plugin started
+05-23 15:25:43 impart_plugin 83:Added kiutils to sys.path: C:\Users\luisH\Documents\KiCad\9.0\3rdparty\plugins\com_github_Steffen-W_impartGUI\kiutils\src
+05-23 15:25:43 impart_plugin 91:Added easyeda2kicad to sys.path: C:\Users\luisH\Documents\KiCad\9.0\3rdparty\plugins\com_github_Steffen-W_impartGUI\easyeda2kicad
+05-23 15:25:43 impart_plugin 97:Added plugin directory to sys.path: C:\Users\luisH\Documents\KiCad\9.0\3rdparty\plugins\com_github_Steffen-W_impartGUI
+05-23 15:25:43 impart_plugin 99:All submodule paths configured successfully
+05-23 15:25:43 impart_plugin 171:Starting plugin frontend
+05-23 15:25:43 root 70:Successfully imported wx module
+05-23 15:25:44 com_github_Steffen-W_impartGUI.kicad_cli 51:KiCad CLI not found, using default 'kicad-cli'
+05-23 15:25:44 com_github_Steffen-W_impartGUI.KiCadImport 44:kicad_cli initialized successfully
+05-23 15:25:44 root 85:Successfully imported all local modules using relative imports
+05-23 15:25:44 root 377:Running in FALLBACK MODE (called from pcbnew)
+05-23 15:25:44 root 389:Fallback mode: Skipping IPC server registration
+05-23 15:25:44 root 193:Initializing ImpartBackend
+05-23 15:25:44 com_github_Steffen-W_impartGUI.KiCad_Settings 42:Initializing KiCad_Settings with path: C:\Users\luisH\AppData\Roaming\kicad\9.0
+05-23 15:25:44 com_github_Steffen-W_impartGUI.FileHandler 52:Changed directory to '.'
+05-23 15:25:44 root 210:Successfully initialized all backend components
+05-23 15:25:44 root 211:KiCad settings path: C:\Users\luisH\AppData\Roaming\kicad\9.0
+05-23 15:25:44 root 919:Created new backend handler
+05-23 15:25:46 com_github_Steffen-W_impartGUI.impart_easyeda 29:Using easyeda2kicad from: C:\Users\luisH\Documents\KiCad\9.0\3rdparty\plugins\com_github_Steffen-W_impartGUI\easyeda2kicad
+05-23 15:25:47 com_github_Steffen-W_impartGUI.impart_easyeda 44:Successfully imported easyeda2kicad modules
+05-23 15:25:49 root 896:Successfully imported EasyEDA component C5446
+05-23 15:25:49 com_github_Steffen-W_impartGUI.KiCad_Settings 242:Successfully loaded KiCad common config
+05-23 15:25:49 com_github_Steffen-W_impartGUI.KiCad_Settings 274:Found 2 global variables
+05-23 15:25:49 com_github_Steffen-W_impartGUI.KiCad_Settings 55:Successfully loaded symbol library table with 227 entries
+05-23 15:25:49 com_github_Steffen-W_impartGUI.KiCad_Settings 147:Successfully loaded footprint library table with 151 entries
+05-23 15:25:49 com_github_Steffen-W_impartGUI.KiCad_Settings 55:Successfully loaded symbol library table with 227 entries
+05-23 15:25:49 com_github_Steffen-W_impartGUI.KiCad_Settings 147:Successfully loaded footprint library table with 151 entries
+05-23 15:25:49 com_github_Steffen-W_impartGUI.KiCad_Settings 55:Successfully loaded symbol library table with 227 entries
+05-23 15:25:49 com_github_Steffen-W_impartGUI.KiCad_Settings 147:Successfully loaded footprint library table with 151 entries
+05-23 15:25:52 root 570:No auto import: Closing everything completely
+05-23 15:25:52 impart_plugin 179:Plugin stopped
+05-23 15:29:47 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:29:48 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:29:48 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:29:48 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:29:48 svg2mod 304:  Inlining 4 segments...
+05-23 15:29:48 svg2mod 339:  Writing Text with 110 points
+05-23 15:29:48 svg2mod 339:  Writing Text with 12 points
+05-23 15:29:48 svg2mod 339:  Writing Text with 12 points
+05-23 15:29:48 svg2mod 339:  Writing Text with 4 points
+05-23 15:29:49 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:29:49 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:29:49 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:29:49 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:29:49 svg2mod 304:  Inlining 1 segments...
+05-23 15:29:49 svg2mod 339:  Writing Text with 40 points
+05-23 15:29:49 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:29:49 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:29:49 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:29:49 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:29:49 svg2mod 304:  Inlining 3 segments...
+05-23 15:29:49 svg2mod 339:  Writing Text with 103 points
+05-23 15:29:49 svg2mod 339:  Writing Text with 9 points
+05-23 15:29:49 svg2mod 339:  Writing Text with 9 points
+05-23 15:29:50 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:29:50 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:29:50 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:29:50 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:29:50 svg2mod 304:  Inlining 2 segments...
+05-23 15:29:50 svg2mod 339:  Writing Text with 75 points
+05-23 15:29:50 svg2mod 339:  Writing Text with 9 points
+05-23 15:29:50 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:29:50 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:29:50 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:29:50 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:29:50 svg2mod 304:  Inlining 1 segments...
+05-23 15:29:50 svg2mod 339:  Writing Text with 37 points
+05-23 15:29:50 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:29:50 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:29:50 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:29:50 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:29:50 svg2mod 304:  Inlining 3 segments...
+05-23 15:29:50 svg2mod 339:  Writing Text with 103 points
+05-23 15:29:50 svg2mod 339:  Writing Text with 17 points
+05-23 15:29:50 svg2mod 339:  Writing Text with 12 points
+05-23 15:29:52 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:29:52 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:29:52 svg2mod 304:  Inlining 3 segments...
+05-23 15:29:52 svg2mod 339:  Writing Text with 103 points
+05-23 15:29:52 svg2mod 339:  Writing Text with 17 points
+05-23 15:29:52 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:09 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:09 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:09 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:09 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:09 svg2mod 304:  Inlining 3 segments...
+05-23 15:30:09 svg2mod 339:  Writing Text with 89 points
+05-23 15:30:09 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:09 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:12 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:12 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:12 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:12 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:12 svg2mod 304:  Inlining 3 segments...
+05-23 15:30:12 svg2mod 339:  Writing Text with 90 points
+05-23 15:30:12 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:12 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:13 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:13 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:13 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:13 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:13 svg2mod 304:  Inlining 3 segments...
+05-23 15:30:13 svg2mod 339:  Writing Text with 90 points
+05-23 15:30:13 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:13 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:14 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:14 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:14 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:14 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:14 svg2mod 304:  Inlining 3 segments...
+05-23 15:30:14 svg2mod 339:  Writing Text with 90 points
+05-23 15:30:14 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:14 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:15 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:15 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:15 svg2mod 304:  Inlining 3 segments...
+05-23 15:30:15 svg2mod 339:  Writing Text with 90 points
+05-23 15:30:15 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:15 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:19 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:19 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:19 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:19 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:19 svg2mod 304:  Inlining 3 segments...
+05-23 15:30:19 svg2mod 339:  Writing Text with 90 points
+05-23 15:30:19 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:19 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:20 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:20 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:20 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:20 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:20 svg2mod 304:  Inlining 3 segments...
+05-23 15:30:20 svg2mod 339:  Writing Text with 90 points
+05-23 15:30:20 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:20 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:21 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:21 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:21 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:21 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:21 svg2mod 304:  Inlining 3 segments...
+05-23 15:30:21 svg2mod 339:  Writing Text with 90 points
+05-23 15:30:21 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:21 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:22 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:22 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:22 svg2mod 304:  Inlining 3 segments...
+05-23 15:30:22 svg2mod 339:  Writing Text with 90 points
+05-23 15:30:22 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:22 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:31 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:31 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:31 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:31 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:31 svg2mod 304:  Inlining 3 segments...
+05-23 15:30:31 svg2mod 339:  Writing Text with 90 points
+05-23 15:30:31 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:31 svg2mod 339:  Writing Text with 12 points
+05-23 15:30:32 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:32 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:32 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:32 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:32 svg2mod 304:  Inlining 1 segments...
+05-23 15:30:32 svg2mod 339:  Writing Text with 79 points
+05-23 15:30:33 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:33 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:33 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:33 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:33 svg2mod 304:  Inlining 3 segments...
+05-23 15:30:33 svg2mod 339:  Writing Text with 162 points
+05-23 15:30:35 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:35 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:35 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:35 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:35 svg2mod 304:  Inlining 3 segments...
+05-23 15:30:35 svg2mod 339:  Writing Text with 162 points
+05-23 15:30:35 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:35 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:35 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:35 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:35 svg2mod 304:  Inlining 3 segments...
+05-23 15:30:35 svg2mod 339:  Writing Text with 162 points
+05-23 15:30:36 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:36 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:36 svg2mod 304:  Inlining 3 segments...
+05-23 15:30:36 svg2mod 339:  Writing Text with 162 points
+05-23 15:30:40 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:40 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:41 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:41 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:41 svg2mod 304:  Inlining 3 segments...
+05-23 15:30:41 svg2mod 339:  Writing Text with 162 points
+05-23 15:30:42 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:42 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:42 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:42 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:42 svg2mod 304:  Inlining 4 segments...
+05-23 15:30:42 svg2mod 339:  Writing Text with 183 points
+05-23 15:30:43 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:43 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:43 svg2mod 304:  Inlining 4 segments...
+05-23 15:30:43 svg2mod 339:  Writing Text with 183 points
+05-23 15:30:49 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:49 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:49 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:49 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:49 svg2mod 304:  Inlining 4 segments...
+05-23 15:30:49 svg2mod 339:  Writing Text with 183 points
+05-23 15:30:50 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:50 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:50 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:50 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:50 svg2mod 304:  Inlining 4 segments...
+05-23 15:30:50 svg2mod 339:  Writing Text with 183 points
+05-23 15:30:51 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:51 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:51 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:51 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:51 svg2mod 304:  Inlining 4 segments...
+05-23 15:30:51 svg2mod 339:  Writing Text with 183 points
+05-23 15:30:52 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:52 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:52 svg2mod 304:  Inlining 4 segments...
+05-23 15:30:52 svg2mod 339:  Writing Text with 183 points
+05-23 15:30:56 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:56 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:56 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:56 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:56 svg2mod 304:  Inlining 4 segments...
+05-23 15:30:56 svg2mod 339:  Writing Text with 183 points
+05-23 15:30:57 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:57 svg2mod 1301:Font "FreddySpark-Regular" does not natively support style "Regular" using "Path" instead
+05-23 15:30:57 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:57 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:57 svg2mod 304:  Inlining 4 segments...
+05-23 15:30:57 svg2mod 339:  Writing Text with 183 points
+05-23 15:30:58 svg2mod-unfiltered 262:Found SVG layer: F.SilkS
+05-23 15:30:58 svg2mod 263:  Detailed names: [F.SilkS]
+05-23 15:30:58 svg2mod 304:  Inlining 4 segments...
+05-23 15:30:58 svg2mod 339:  Writing Text with 183 points
+05-23 15:38:38 root 199:IPC server stopped
